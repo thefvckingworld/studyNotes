@@ -1,0 +1,4 @@
+﻿  Prototype_pattern.cpp
+C:\Users\thefv\Documents\study\myProject\studyNotes\图解设计模式\本书源码_c++实现\Prototype_pattern\UnderLinePen.h(27,21): warning C4101: “e”: 未引用的局部变量
+C:\Users\thefv\Documents\study\myProject\studyNotes\图解设计模式\本书源码_c++实现\Prototype_pattern\MessageBox.h(29,21): warning C4101: “e”: 未引用的局部变量
+  Prototype_pattern.vcxproj -> C:\Users\thefv\Documents\study\myProject\studyNotes\图解设计模式\本书源码_c++实现\Prototype_pattern\Debug\Prototype_pattern.exe
